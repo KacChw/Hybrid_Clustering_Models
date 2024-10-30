@@ -10,7 +10,7 @@ This repository implements a hybrid clustering and classification system using v
 ![KMeans Results](img/result.png)
 
 ### SOM Results
-![SOM Results](img/som_3d_predictions.png)
+![SOM Results](img/som_3d_prediction.png)
 
 ### Fuzzy C-Means Results
 ![Fuzzy C-Means Results](img/kmeans_3d.png)
