@@ -4,14 +4,23 @@
 
 This repository implements a hybrid clustering and classification system using various machine learning and AI models, including **KMeans**, **Neural Network**, **SOM (Self-Organizing Map)**, **Fuzzy C-Means**, and **ANFIS (Adaptive Neuro-Fuzzy Inference System)**. Each model is applied to the same dataset to explore and compare their effectiveness, particularly in terms of accuracy. This project is a practical example of leveraging a multi-method approach to clustering, combining different techniques for optimal results.
 
-## Table of Contents
+## Results
 
-- [Overview](#overview)
-- [Directory Structure](#directory-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Conclusion](#conclusion)
+### Hybrid Results
+![KMeans Results](img/result.png)
+
+### SOM Results
+![SOM Results](img/som_3d_predictions.png)
+
+### Fuzzy C-Means Results
+![Fuzzy C-Means Results](img/kmeans_3d.png)
+
+### Neural Network
+![Fuzzy C-Means Results](img/neutral_network_prediction.png)
+
+### ANFIS Results
+![ANFIS Results](img/result2.png)
+
 
 ## Overview
 
